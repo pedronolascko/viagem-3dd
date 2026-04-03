@@ -212,7 +212,7 @@ body {
 .b-great  { background: #FDF5E9; color: #7A4000; }
 .b-ok     { background: #F0EDE8; color: #6A6360; }
 .b-hidden { background: #EEF8F3; color: #1A5A3A; }
-.b-gay    { background: #F5E3F9; color: #7A1A90; }
+.b-gay    { background: #F5E8F9; color: #7A1A90; }
 .b-club   { background: #1A1714; color: #F5F0E8; }
 .b-drag   { background: #FFF0D0; color: #8A4000; }
 .b-fest   { background: #EEF3FB; color: #1A3D80; }
@@ -221,7 +221,7 @@ body {
 .b-cafe   { background: $FDF5E9; color: #9A5E00; }
 .b-bake   { background: #FFF0D6; color: #7A4A00; }
 .b-bar    { background: #E8F5EE; color: #1A5E3A; }
-.b-wine   { background: #F0EBF9; color: #5A1E80; }
+.b-wine   { background: #F3EBF9; color: #5A1E80; }
 .b-beer   { background: #EFF6FF; color: #1E4A80; }
 .b-friend { background: #FFF3EF; color: #A02A1A; }
 .b-design { background: #1A1714; color: #F5F0E8; }
